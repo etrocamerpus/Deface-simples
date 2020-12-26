@@ -1,3 +1,3 @@
 Um deface simples, para você usar em ataques SQL Injection.
 
-Obs: a pasta Estilo.css não é necessária
+Obs: a pasta c.css não é necessária
